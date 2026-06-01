@@ -1,0 +1,8 @@
+{
+  "name": "Dịch Truyện Tiếng Trung AI",
+  "description": "Ứng dụng dịch tiểu thuyết Trung Quốc sang tiếng Việt chuyên nghiệp, bảo tồn tên Hán Việt và phong cách tu tiên, võ hiệp.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
